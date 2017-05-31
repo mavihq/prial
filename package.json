@@ -1,0 +1,28 @@
+{
+  "name": "prial",
+  "version": "1.0.0",
+  "description": "currency formating library for javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavihq/prial.git"
+  },
+  "keywords": [
+    "rial",
+    "toman",
+    "persian",
+    "currency",
+    "money",
+    "format",
+    "farsi"
+  ],
+  "author": "mavi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mavihq/prial/issues"
+  },
+  "homepage": "https://github.com/mavihq/prial#readme"
+}
